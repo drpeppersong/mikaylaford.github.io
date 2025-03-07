@@ -1,2 +1,2 @@
 # mikaylaford.github.io
-theme: MINIMA
+theme: jekyll-theme-minimal
